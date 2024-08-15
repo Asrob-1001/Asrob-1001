@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 😃
+- currently building a personal website that i've always wanted to do, and learning html and stuff in the process :)
 
 <!--
 **Asrob-1001/Asrob-1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
